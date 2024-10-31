@@ -32,12 +32,13 @@ I have had the pleasure of working as video editor and social media strategist f
 - Next.js
 - Appwrite Authenthication
 - PostgresSQL
-- AWS Elastic Media Transcoder
+- GCP transcoder API
 - Youtuber , Instagram API
-- Tailwind CSS
-- Accernity UI
+- NextUI
 - Vercel
 - Cloudflare R2
+- Prisma
+
 
 ## Project Repo  
 
@@ -45,4 +46,6 @@ https://github.com/Fada-Club/collabcloud
 
 ## Demo Video/Photos  
 
-(under development will add as soon it's complete)
+Added images here
+
+https://drive.google.com/drive/folders/1ut73F2ohi_PsnT3iwuDhStI283zptIW_?usp=sharing
